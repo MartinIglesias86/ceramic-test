@@ -1,4 +1,4 @@
-# App to test the connection to Ceramic, and basic profile creation.
+# App to test the connection to Ceramic Network, and do a basic profile creation or update.
 
 In this project I'm going to use [React](https://reactjs.org/) and [Node.js](https://nodejs.org/) to create the app, alongside the ethers.js, web3Modal and Ceramic libraries. Everything is gonna be running in the Rinkeby testnet.
 
